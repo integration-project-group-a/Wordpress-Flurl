@@ -1,0 +1,11 @@
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\obj\Debug\netcoreapp2.0\FlurlExamples.csprojAssemblyReference.cache
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\obj\Debug\netcoreapp2.0\FlurlExamples.csproj.CoreCompileInputs.cache
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\obj\Debug\netcoreapp2.0\FlurlExamples.AssemblyInfoInputs.cache
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\obj\Debug\netcoreapp2.0\FlurlExamples.AssemblyInfo.cs
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\bin\Debug\netcoreapp2.0\FlurlExamples.deps.json
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\bin\Debug\netcoreapp2.0\FlurlExamples.runtimeconfig.json
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\bin\Debug\netcoreapp2.0\FlurlExamples.runtimeconfig.dev.json
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\bin\Debug\netcoreapp2.0\FlurlExamples.dll
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\bin\Debug\netcoreapp2.0\FlurlExamples.pdb
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\obj\Debug\netcoreapp2.0\FlurlExamples.dll
+C:\Users\Jensd\Downloads\flurl-examples-master\FlurlExamples\obj\Debug\netcoreapp2.0\FlurlExamples.pdb

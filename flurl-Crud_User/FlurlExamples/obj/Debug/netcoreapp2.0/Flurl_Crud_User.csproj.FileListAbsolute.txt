@@ -1,0 +1,11 @@
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\bin\Debug\netcoreapp2.0\Flurl_Crud_User.deps.json
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\bin\Debug\netcoreapp2.0\Flurl_Crud_User.runtimeconfig.json
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\bin\Debug\netcoreapp2.0\Flurl_Crud_User.runtimeconfig.dev.json
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\bin\Debug\netcoreapp2.0\Flurl_Crud_User.dll
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\bin\Debug\netcoreapp2.0\Flurl_Crud_User.pdb
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\obj\Debug\netcoreapp2.0\Flurl_Crud_User.csprojAssemblyReference.cache
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\obj\Debug\netcoreapp2.0\Flurl_Crud_User.csproj.CoreCompileInputs.cache
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\obj\Debug\netcoreapp2.0\Flurl_Crud_User.AssemblyInfoInputs.cache
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\obj\Debug\netcoreapp2.0\Flurl_Crud_User.AssemblyInfo.cs
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\obj\Debug\netcoreapp2.0\Flurl_Crud_User.dll
+C:\Users\Jensd\Downloads\flurl-Crud_User\FlurlExamples\obj\Debug\netcoreapp2.0\Flurl_Crud_User.pdb
